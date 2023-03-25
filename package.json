@@ -8,7 +8,7 @@
   },
   "author": "maxwellbenton <maxwellbenton@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.16.3"
+  "devDependencies": {
+    "json-server": "^0.17.3"
   }
 }
